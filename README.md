@@ -24,7 +24,7 @@ $pip install colorama
 
 $pip install futures
 
-$git clone https://github.com/KALLXD/crack-ig
+$git clone https://github.com/KALLXD/crack-
 
 $cd tes ijo
 

@@ -26,6 +26,6 @@ $pip install futures
 
 $git clone https://github.com/KALLXD/crack-ig
 
-$cd test ijo
+$cd tes ijo
 
-$python test ijo.py
+$python tes ijo.py
